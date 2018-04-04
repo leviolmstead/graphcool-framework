@@ -9,7 +9,7 @@ In this article, you'll learn how to use serverless functions to validate an ema
 
 ## Overview: Serverless Functions
 
-[Serverless Functions](https://en.wikipedia.org/wiki/Serverless_computing), also referred to as Functions as a Service (FaaS), enable developers to write and deploy independent pieces of functionality without having to deal with setting up and configuring the server environment.
+[Serverless Functions](https://en.wikipedia.org/wiki/Serverless_computing), also referred to as Functions as a Service (FaaS) and serverless computing (https://blog.g2crowd.com/blog/technology-research/what-is-serverless-computing/), enable developers to write and deploy independent pieces of functionality without having to deal with setting up and configuring the server environment.
 
 In that sense, they are similar to microservices, where each function represents one microservice, but again, without the developer having to deal with configuration or deployment overhead. Instead, they can take advantage of the server infrastructures of FaaS providers such as [AWS Lambda](https://serverless.com/framework/docs/providers/aws/guide/functions/), [Google Cloud Functions](https://cloud.google.com/functions/) or [StdLib](https://stdlib.com/).
 
